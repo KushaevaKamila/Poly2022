@@ -3,16 +3,13 @@ package ru.kkushaeva.gui;
 import ru.kkushaeva.Converter;
 import ru.kkushaeva.graphics.*;
 import ru.kkushaeva.graphics.Painter;
-import ru.kkushaeva.math.Function;
 import ru.kkushaeva.math.Newton;
-import ru.kkushaeva.math.Polynomial;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Map;
 
 public class MainWindow extends JFrame {
 
